@@ -31,6 +31,7 @@ docker push <AWS_ECR_REPO_URL>:latest
 Create AWS Fargate Task Definition
 
 Run Task on ECS with RDS, ElastiCache, and MSK
+
 ---------------------------------------------------------------------------------
 Option 2: Deploy to DigitalOcean (App Platform + Managed PostgreSQL + Redis)
 Create DigitalOcean Droplet for Kafka
